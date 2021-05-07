@@ -1,0 +1,41 @@
+#mainpage{
+    font-family: "Font Awesome 5 free";
+   
+}
+#mainpage img{
+    z-index: -1;
+    width: 100%;
+    position: relative;
+    
+}
+#mainpage p{
+    font-size: 30px;
+    color: rgb(235, 227, 227);
+    position: absolute;
+    z-index: 9999;
+    left: 350px;
+    top: 450px;
+
+
+}#mainpage span{
+    font-size: 40px;
+    color: rgb(241, 234, 234);
+    font-family: sans-serif;
+    position: absolute;
+    z-index: 9999;
+    left: 550px;
+    top: 400px;
+
+
+}
+
+@media (max-width: 600px){
+    #mainpage img,p,span{
+        display: none;
+    }
+    #mainpage{
+        height: 100vh;
+        background-color: rgb(122, 122, 216);
+    }
+
+}
