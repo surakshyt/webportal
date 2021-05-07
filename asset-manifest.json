@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/webportal/static/css/main.2f45f47b.chunk.css",
+    "main.js": "/webportal/static/js/main.89434101.chunk.js",
+    "main.js.map": "/webportal/static/js/main.89434101.chunk.js.map",
+    "runtime-main.js": "/webportal/static/js/runtime-main.2e70b7fd.js",
+    "runtime-main.js.map": "/webportal/static/js/runtime-main.2e70b7fd.js.map",
+    "static/js/2.f86e66db.chunk.js": "/webportal/static/js/2.f86e66db.chunk.js",
+    "static/js/2.f86e66db.chunk.js.map": "/webportal/static/js/2.f86e66db.chunk.js.map",
+    "static/js/3.d8dc5707.chunk.js": "/webportal/static/js/3.d8dc5707.chunk.js",
+    "static/js/3.d8dc5707.chunk.js.map": "/webportal/static/js/3.d8dc5707.chunk.js.map",
+    "index.html": "/webportal/index.html",
+    "static/css/main.2f45f47b.chunk.css.map": "/webportal/static/css/main.2f45f47b.chunk.css.map",
+    "static/js/2.f86e66db.chunk.js.LICENSE.txt": "/webportal/static/js/2.f86e66db.chunk.js.LICENSE.txt",
+    "static/media/bds.6242b04f.jpg": "/webportal/static/media/bds.6242b04f.jpg",
+    "static/media/camping.2b797ffd.jpg": "/webportal/static/media/camping.2b797ffd.jpg",
+    "static/media/cyclingjpg.e1c1dcc0.jpg": "/webportal/static/media/cyclingjpg.e1c1dcc0.jpg",
+    "static/media/food.8b1309f1.jpg": "/webportal/static/media/food.8b1309f1.jpg",
+    "static/media/kathmandu.2eae9031.jpeg": "/webportal/static/media/kathmandu.2eae9031.jpeg",
+    "static/media/kds.be4a502a.jpg": "/webportal/static/media/kds.be4a502a.jpg",
+    "static/media/kritipur.3be4e5b0.jpg": "/webportal/static/media/kritipur.3be4e5b0.jpg",
+    "static/media/meditation.6c87afdc.jpg": "/webportal/static/media/meditation.6c87afdc.jpg",
+    "static/media/pashupati.7adca9d3.jpg": "/webportal/static/media/pashupati.7adca9d3.jpg",
+    "static/media/pds.9e8aa7b5.jpeg": "/webportal/static/media/pds.9e8aa7b5.jpeg",
+    "static/media/swayambhu.03e33b4e.jpeg": "/webportal/static/media/swayambhu.03e33b4e.jpeg",
+    "static/media/thamel.6db3218b.jpg": "/webportal/static/media/thamel.6db3218b.jpg",
+    "static/media/tourist-enjoy.e26e949f.jpg": "/webportal/static/media/tourist-enjoy.e26e949f.jpg",
+    "static/media/zoo.0676ce8a.jpg": "/webportal/static/media/zoo.0676ce8a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e70b7fd.js",
+    "static/js/2.f86e66db.chunk.js",
+    "static/css/main.2f45f47b.chunk.css",
+    "static/js/main.89434101.chunk.js"
+  ]
+}
